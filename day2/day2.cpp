@@ -1,3 +1,15 @@
+/*
+ *	day2.cpp - Advent of Code 2021
+ *
+ *	Author: Jonathan Vega
+ * 
+ *	Purpose: Uses directional words from text file to find horizontal position,
+ *           depth, and aim. Calculations are then made using those results.
+ *	Usage: Run the program with a file called 'input-day2a.txt' in the same
+ *		   directory of the executable.
+ *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
 #include <iostream>
 #include <fstream> //to work with files
 

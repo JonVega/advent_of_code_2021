@@ -8,10 +8,10 @@
  *           Oxygen Generator Rating
  *	Usage: Run the program with a file called 'input-day3a.txt' in the same
  *		   directory of the executable.
- *  Note: You can remove the bitset if you want as they don't affect the outcome,
+ *  Note: You can remove the bitset if you want. They don't affect the outcome,
  *        I just wanted to see the Gamma and Epsilon rate, you can remove it.
  *
- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 #include <iostream>
 #include <vector>
